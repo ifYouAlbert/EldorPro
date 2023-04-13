@@ -1,6 +1,5 @@
 '''init'''
 
-
 from kivy.core.window import Window
 W, H = Window.size
 special_mult = 1.3
