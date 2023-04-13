@@ -1,4 +1,4 @@
-'''init'''
+'''init '''
 
 from kivy.core.window import Window
 W, H = Window.size
